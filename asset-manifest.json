@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/donatekart-frontend/static/css/main.09191688.chunk.css",
+    "main.js": "/donatekart-frontend/static/js/main.6f263a6b.chunk.js",
+    "main.js.map": "/donatekart-frontend/static/js/main.6f263a6b.chunk.js.map",
+    "runtime-main.js": "/donatekart-frontend/static/js/runtime-main.b88a5ff4.js",
+    "runtime-main.js.map": "/donatekart-frontend/static/js/runtime-main.b88a5ff4.js.map",
+    "static/js/2.6c63d3d6.chunk.js": "/donatekart-frontend/static/js/2.6c63d3d6.chunk.js",
+    "static/js/2.6c63d3d6.chunk.js.map": "/donatekart-frontend/static/js/2.6c63d3d6.chunk.js.map",
+    "static/js/3.bc25acc6.chunk.js": "/donatekart-frontend/static/js/3.bc25acc6.chunk.js",
+    "static/js/3.bc25acc6.chunk.js.map": "/donatekart-frontend/static/js/3.bc25acc6.chunk.js.map",
+    "index.html": "/donatekart-frontend/index.html",
+    "static/css/main.09191688.chunk.css.map": "/donatekart-frontend/static/css/main.09191688.chunk.css.map",
+    "static/js/2.6c63d3d6.chunk.js.LICENSE.txt": "/donatekart-frontend/static/js/2.6c63d3d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b88a5ff4.js",
+    "static/js/2.6c63d3d6.chunk.js",
+    "static/css/main.09191688.chunk.css",
+    "static/js/main.6f263a6b.chunk.js"
+  ]
+}
